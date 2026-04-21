@@ -1,0 +1,8 @@
+Database engine: postgres
+Database name: agromandi
+Database user: agromandi
+Database password: agromandi3864
+Database host: localhost
+Database port: 5432
+Details file: db/agromandi.txt
+Connection URL: postgresql://agromandi:agromandi3864@localhost:5432/agromandi

@@ -1,0 +1,8 @@
+Database engine: postgres
+Database name: crystalsite
+Database user: crystalsite
+Database password: crystalsite2000
+Database host: localhost
+Database port: 5432
+Details file: db/crystalsite.txt
+Connection URL: postgresql://crystalsite:crystalsite2000@localhost:5432/crystalsite

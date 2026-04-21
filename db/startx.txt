@@ -1,0 +1,8 @@
+Database engine: postgres
+Database name: startx
+Database user: startx
+Database password: startx8269
+Database host: localhost
+Database port: 5432
+Details file: db/startx.txt
+Connection URL: postgresql://startx:startx8269@localhost:5432/startx
